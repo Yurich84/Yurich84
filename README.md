@@ -31,7 +31,13 @@
 </p>
 
 ### My stats ⭐
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yurich84&show_icons=true&locale=en&theme=transparent" alt="yurich84" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yurich84&hide=contribs&show_icons=true&locale=en&theme=transparent" alt="yurich84" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurich84&count_private=true&theme=transparent&show_icons=true&hide=css&layout=compact&card_width=270" alt="Yurich's Most Used GitHub Languages" />
+</a>
+<br/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yurich84&label=Profile%20views&color=0e75b6&style=flat" alt="yurich84" /> </p>
 
